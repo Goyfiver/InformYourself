@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+div.Welcome p {
+color: white;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: xx-large;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
